@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarTheme">@style/CustomActionBarTheme</item>
+    </style>
+
+    <style name="CustomActionBarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+</resources>
